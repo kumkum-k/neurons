@@ -1,0 +1,10 @@
+flask
+numpy
+pandas
+scikit-learn
+seaborn
+# warnings
+tensorflow
+keras
+pydot
+graphviz
